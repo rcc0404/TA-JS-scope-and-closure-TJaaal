@@ -5,6 +5,7 @@ function percentage(marks, total) {
   return (marks * 100) / total;
 }
 
+
 // Your code goes here
 ```
 
